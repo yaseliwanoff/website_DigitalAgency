@@ -5,6 +5,8 @@ A digital agency helps companies sell a product or service using online promotio
 
 This repository contains the source code for a modern digital agency website developed using adaptive layout and HTML, CSS and SCSS technologies.
 
+You can view this website from this link: https://draft-yaseliwanoff.github.io/positivus.github.io/
+
 ## Functionality
 - Responsive design: The site looks and works perfectly on desktops, tablets and smartphones.
 
